@@ -5,7 +5,9 @@ Website made using Node.js using Express.js as Framework , Used Bootstrap and ES
 ## FOLLOW These:-
 Do npm install to install all dependencies.
 
-The COLLECTION name is ecom.
+Do node server.js to run the program
+
+The COLLECTION name created is ecom in MongoDB compass.
 
 http://localhost:7000/login/1 for logging in as ADMIN:-
 
@@ -27,7 +29,7 @@ Admin can:-
 
 http://localhost:7000/login/0 for logging in as USER:-
 
-For testing purpose we ca create a new account.
+For testing purpose we can create a new account.
 
 User can:-
 
